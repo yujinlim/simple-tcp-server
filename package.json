@@ -1,0 +1,36 @@
+{
+  "name": "simple-tcp-server",
+  "version": "1.0.0",
+  "description": "Simple TCP server framework with koa style middlewares",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "keywords": [
+    "tcp",
+    "server",
+    "koa",
+    "simple tcp server",
+    "simple-tcp-server",
+    "simple-tcp"
+  ],
+  "author": {
+    "name": "Yu Jin",
+    "email": "adamlyj89@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "sinon": "^1.17.2",
+    "supertest": "^1.1.0"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "debug": "^2.2.0",
+    "koa-compose": "^2.3.0",
+    "serializerr": "^1.0.2"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}
