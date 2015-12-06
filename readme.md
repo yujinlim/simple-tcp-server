@@ -1,4 +1,4 @@
-# Simple TCP
+# Simple TCP [![Build Status](https://travis-ci.org/yujinlim/simple-tcp-server.svg)](https://travis-ci.org/yujinlim/simple-tcp-server)
 A simple TCP server using koa styles and syntax with ES6 generators.
 
 ## Installation

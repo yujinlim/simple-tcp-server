@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Simple TCP server framework with koa style middlewares",
   "main": "index.js",
+  "homepage": "https://github.com/yujinlim/simple-tcp-server",
   "scripts": {
     "test": "mocha test/"
   },
@@ -14,6 +15,13 @@
     "simple-tcp-server",
     "simple-tcp"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:yujinlim/simple-tcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yujinlim/simple-tcp-server/issues"
+  },
   "author": {
     "name": "Yu Jin",
     "email": "adamlyj89@gmail.com"
