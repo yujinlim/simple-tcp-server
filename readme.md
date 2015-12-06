@@ -1,5 +1,5 @@
 # Simple TCP [![Build Status](https://travis-ci.org/yujinlim/simple-tcp-server.svg)](https://travis-ci.org/yujinlim/simple-tcp-server)
-A simple TCP server using koa styles and syntax with ES6 generators.
+A simple TCP server using [koa](https://github.com/koajs/koa) styles and syntax with ES6 generators.
 
 ## Installation
 ```
@@ -26,3 +26,9 @@ server.on('error', function(err) {
   console.error(err);
 });
 ```
+
+## Related
+- [`koa`](https://github.com/koajs/koa)
+
+## License
+Released under the [MIT License](http://www.opensource.org/licenses/MIT).
